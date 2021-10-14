@@ -62,6 +62,7 @@ Mostrar los nombres y login de usuarios que han escrito comentarios con palabras
 
 3.  (40%)Implemente la historia de usuario #2, agregando todo lo que haga falta en la capa de presentación, lógica y de persistencia. La vista debe implementarse en `searchOffensiveUsers.xhtml`.
 
+---
 
 ## Entrega
 
@@ -69,23 +70,15 @@ Siga al pie de la letra estas indicaciones para la entrega del examen. EL HACER 
 
 1. Limpie el proyecto
 
-	```bash
-	$ mvn clean
-	```
+	![image](https://user-images.githubusercontent.com/59974540/137331170-4de04210-37ec-4479-816c-7eaa99b61d6d.png)
 
 1. Configure su usuario de GIT
 
-	```bash
-	$ git config --global user.name "Juan Perez"
-	$ git config --global user.email juan.perez@escuelaing.edu.co
-	```
+	![image](https://user-images.githubusercontent.com/59974540/137331232-e4ef67c5-c55e-4ae0-a37e-9df4b1337dab.png)
 
 2. Desde el directorio raíz (donde está este archivo README.md), haga commit de lo realizado.
 
-	```bash
-	$ git add .
-	$ git commit -m "entrega parcial - Juan Perez"
-	```
+![image](https://user-images.githubusercontent.com/59974540/137331257-483c8fce-fda9-43cc-ad95-201647c1c180.png)
 
 
 3. Desde este mismo directorio, comprima todo con: (no olvide el punto al final en la segunda instrucción)
